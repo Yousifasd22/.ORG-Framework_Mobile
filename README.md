@@ -11,5 +11,5 @@ Anyway... Thanks Everyone For Viewing Our Projects...
 
 This Apk Version Can Support PHP But The HTML File Must Navigate To It
 
-## How Yo Edit The Files
+## How To Edit The Files
 Video URL : https://youtu.be/sJJqxwkEcPw
